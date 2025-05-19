@@ -2,8 +2,11 @@
 
 ## Projects
 
-### [WTAMU Captive Portal] (https://github.com/wtamucis/naboo-final-project)🌐
+### [WTAMU Captive Portal] (https://github.com/wtamucis/naboo-final-project) 🌐
 A browser-based captive portal system built with ASP.NET Core Razor Pages and Entity Framework. Designed for managing authenticated access to campus Wi-Fi, the app includes features like role-based authorization, advertisement rotation, and a custom admin dashboard. Implements secure cookie handling, user verification, and integrates SQL Server for data persistence.
+
+### [Dragon Game] (https://github.com/wtamucis/naboo-game) 🐉
+A text-based RPG developed in C# using object-oriented programming principles. Players create a character, choose a class and race, and battle enemies through a command-line interface. The game features combat mechanics, randomized enemy stats, weapon-based damage calculation, and structured gameplay flow using classes and enums.
 
 ### [Movie Buffs] (https://github.com/benellis1993/MovieBuffs) 🎬  
 MovieBuffs is a movie browsing app designed using **Kotlin** and **Jetpack Compose**, following the **MVVM architecture**. It integrates with a movie API to fetch real-time data and includes features like **local caching**, a **modern UI**, and **efficient state management**.
