@@ -2,6 +2,12 @@
 
 ## Projects
 
+### [CryptoTrade] (https://github.com/benellis1993/CryptoTrade) 💹
+An automated crypto trading bot built in Python that analyzes market trends using CoinGecko data and executes trades through the Coinbase API. The bot leverages the Average True Range (ATR) formula to measure market volatility and identify optimal trade entries and exits. Includes configurable parameters for trading pairs, risk thresholds, and ATR multipliers, allowing users to fine-tune strategy performance and adapt to different market conditions.
+
+### [Stealth_Bot] (https://github.com/benellis1993/Stealth_Bot) 🕶️
+A custom Discord bot built in Python that allows users to rate and review services directly within a server. Reviews are automatically formatted and posted to the appropriate channel using Discord embeds for a clean, professional look. Features include slash command integration, role-based permissions, and secure token handling with environment variables. Ideal for marketplaces or community servers that need an automated reputation and feedback system.
+
 ### [WTAMU Captive Portal] (https://github.com/wtamucis/naboo-final-project) 🌐
 A browser-based captive portal system built with ASP.NET Core Razor Pages and Entity Framework. Designed for managing authenticated access to campus Wi-Fi, the app includes features like role-based authorization, advertisement rotation, and a custom admin dashboard. Implements secure cookie handling, user verification, and integrates SQL Server for data persistence.
 
